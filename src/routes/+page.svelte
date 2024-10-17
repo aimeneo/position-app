@@ -33,11 +33,11 @@
     let markers = [
         {
             lngLat: {
-                lng: 144.98,
-                lat: -37.805,
+                lng: 144.965,
+                lat: -37.81,
             },
-            label: 'Marker 1',
-            name: 'This is a marker'
+            label: 'State Library',
+            name: 'This is the State Library'
         },
         {
             lngLat: {
